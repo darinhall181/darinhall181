@@ -15,8 +15,11 @@ I love to build! I'm a huge supporter of following your passions and being a lif
 ### Reach Me:
 
 *LinkedIn*: https://www.linkedin.com/in/darinhall27/
+
 *Email*: contact@darinhall.com
+
 *WeChat*: alexanderthegreat208
+
 *Instagram*: darinhall27
 
 
