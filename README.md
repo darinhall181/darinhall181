@@ -9,7 +9,9 @@ I love to build! I'm a huge supporter of following your passions and being a lif
 ### Looking for Collaboration
 
 **Pleco Alternative:** Building a desktop widget for convenient word translation for avid Chinese learners
+
 **Letterboxd Alternative:** Bringing the Letterboxd world to the Chinese audiences
+
 **Augmented Reality Widget:** Using ML Sharp to visualize and add a digital AR layer to analog photography
 
 ### Reach Me:
@@ -20,7 +22,7 @@ I love to build! I'm a huge supporter of following your passions and being a lif
 
 *WeChat*: alexanderthegreat208
 
-*Instagram*: darinhall27
+*Instagram*: @darinhall27
 
 
 <!--
