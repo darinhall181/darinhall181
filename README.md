@@ -2,11 +2,11 @@
 
 I love to build! I'm a huge supporter of following your passions and being a lifelong learner. I live at the intersection between visual media and technology, with a background in studio photography and (soon to be) bachelors degree in data science. I'm also super interested in language learning and entrepreneurship. You can check out my website darinhall.com for more of my personal photography work as well! 
 
-### Currently Building
+### Currently Building 🧮
 
 **Altoscope:** Creating an interactive platform for understanding how to choose the correct visual media gear
 
-### Looking for Collaboration
+### Looking for Collaboration 🧑‍💻🧑‍💻
 
 **Pleco Alternative:** Building a desktop widget for convenient word translation for avid Chinese learners
 
@@ -14,7 +14,7 @@ I love to build! I'm a huge supporter of following your passions and being a lif
 
 **Augmented Reality Widget:** Using ML Sharp to visualize and add a digital AR layer to analog photography
 
-### Reach Me:
+### Reach Me 🤙
 
 *LinkedIn*: https://www.linkedin.com/in/darinhall27/
 
