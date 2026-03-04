@@ -8,9 +8,9 @@ I love to build! I'm a huge supporter of following your passions and being a lif
 
 ### 🧑‍💻🧑‍💻 Looking for Collaboration 
 
-**Pleco Alternative:** Building a desktop widget for convenient word translation for avid Chinese learners
+**Jade:** Building a mobile app combining the usage of DeepL & Pleco in one place for avid Chinese learners. 
 
-**Letterboxd Alternative:** Bringing the Letterboxd world to the Chinese audiences
+**Letterboxd 中文版:** Bringing the Letterboxd world to the Chinese audiences
 
 **Augmented Reality Widget:** Using ML Sharp to visualize and add a digital AR layer to analog photography
 
